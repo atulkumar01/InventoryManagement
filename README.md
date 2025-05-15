@@ -1,4 +1,6 @@
-Flipkart Daily 
+**Flipkart Daily 
+**
+
 Description: Flipkart wants to build a product to deliver groceries and daily essentials by next morning. In the initial release we want to build a browsing feature for Users where they can search for items from inventory using some filters and sorting criterias. This will give them the idea of how rich the inventory is before they can go ahead and place an order.
 Features: 
 Define items in the inventory along with the price. Category & brand defines the item.   [category → milk, bread / brand → Amul milk or Britannia bread]
